@@ -31,3 +31,6 @@ The wired thing is got 61 cahanges while commiting to Github
 2023-03-03
 1516
 confirmed the repo is created ... and tested the app
+
+1525
+Created the README.md file and pulled that

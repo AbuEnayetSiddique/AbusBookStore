@@ -34,3 +34,6 @@ confirmed the repo is created ... and tested the app
 
 1525
 Created the README.md file and pulled that
+
+1626
+Modified the welcome page

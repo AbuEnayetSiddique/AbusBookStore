@@ -50,3 +50,5 @@ ran the program, nothging changed
 1450
 modified _Layou.cshtml file
 ran the application and changed the outlook.
+modified the _LoginPartial.cshtml
+

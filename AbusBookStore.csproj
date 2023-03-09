@@ -6,6 +6,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\lib\bootstrap\dist\css\bootstrap_bk.css" />
+    <Content Remove="wwwroot\lib\bootstrap\dist\css\bootstrap_bk.css.map" />
+    <Content Remove="wwwroot\lib\bootstrap\dist\css\bootstrap_bk.min.css" />
+    <Content Remove="wwwroot\lib\bootstrap\dist\css\bootstrap_bk.min.css.map" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.27" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.27" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.27" />

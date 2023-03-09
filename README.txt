@@ -41,3 +41,8 @@ Modified the welcome page
 2023-03-09
 1416
 pulled project from Github and ran
+
+1425
+downloaded Journal theme- bootstrap.css file from bootswatch.com website
+added to the wwwroot->lib->bootstrap->dist->css folder
+ran the program, nothing changes as expected                                                                                                                                                                            

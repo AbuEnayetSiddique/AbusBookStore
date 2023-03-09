@@ -37,3 +37,7 @@ Created the README.md file and pulled that
 
 1626
 Modified the welcome page
+
+2023-03-09
+1416
+pulled project from Github and ran

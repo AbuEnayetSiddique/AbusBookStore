@@ -22,4 +22,9 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.27" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AbusBooks.DataAccess\AbusBooks.DataAccess.csproj" />
+    <ProjectReference Include="..\AbusBooks.Models\AbusBooks.Models.csproj" />
+  </ItemGroup>
+
 </Project>

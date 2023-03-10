@@ -76,3 +76,10 @@ Installed Nuget Packege:
 	Identity.EntityFrameworkCore Version: 1.2.7
 
 Modified the namespace in ApplicationDbContext.cs to AbusBookStore.DataAccess.Data
+Deleted Startup.cs files from new projects
+Moved Model folder to AbusBooks.Moldels folder
+Modified ErrorViewModel.cs
+Added the Project Reference
+Renamed Model folder to ViedModels
+Changed the namespace to AbusBookStore.Models.ViewModels
+Built the project and got 13 error.

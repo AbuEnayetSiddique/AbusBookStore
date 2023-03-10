@@ -71,3 +71,8 @@ Installed-
 	Microsoft.EntityFrameworkCore.SqlServer version:3.1.32
 
 Deleted the Migration Folder.
+
+Installed Nuget Packege: 
+	Identity.EntityFrameworkCore Version: 1.2.7
+
+Modified the namespace in ApplicationDbContext.cs to AbusBookStore.DataAccess.Data

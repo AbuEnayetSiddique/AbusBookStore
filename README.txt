@@ -62,3 +62,12 @@ Added three new Projects, named-
 	AbusBoos.DataAccess
 	AbusBooks.Models
 	AbusBooks.Utility
+
+1042
+Shift the Data folder to AbusBooks.DataAccess
+
+Installed-
+	Microsoft.EntityFrameworkCore.Relational version: 3.1.32
+	Microsoft.EntityFrameworkCore.SqlServer version:3.1.32
+
+Deleted the Migration Folder.

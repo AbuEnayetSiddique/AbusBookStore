@@ -48,7 +48,17 @@ added to the wwwroot->lib->bootstrap->dist->css folder
 ran the program, nothging changed
 
 1450
-modified _Layou.cshtml file
+modified _Layout.cshtml file
 ran the application and changed the outlook.
 modified the _LoginPartial.cshtml
 
+2023-03-10
+1015
+Started working on Adding and Modifing part
+ran the application...working
+
+1021
+Added three new Projects, named-
+	AbusBoos.DataAccess
+	AbusBooks.Models
+	AbusBooks.Utility
